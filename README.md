@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sanika Kamble</h1>
 <h3 align="center">A passionate Computer Science and Engineering Student from India</h3>
 
-<img align="right' alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Floading.io%2Ficon%2Fy8lp54&psig=AOvVaw0-6Tvla8BeGzxwbcff1nLQ&ust=1727026200200000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNi3nq3I1IgDFQAAAAAdAAAAABAJ">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanikakamble0451&label=Profile%20views&color=0e75b6&style=flat" alt="sanikakamble0451" /> </p>
 
 - 🔭 I’m currently working on **EDA and Prediction Of Arrhythmia**
